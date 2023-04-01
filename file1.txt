@@ -1,4 +1,10 @@
 hello file
  new line added after initial commit
 ZXscss
+<<<<<<< HEAD
 dwcfrgvtgsxcsd
+=======
+
+
+xcdvfvdcxcx
+>>>>>>> branch1
